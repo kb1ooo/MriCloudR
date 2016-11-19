@@ -19,7 +19,7 @@ To install from a release build run (note the docBuildInstall.sh script already 
 
 To make a release run (note, you will need the example data directories which are not currently stored in the repo):
 
-  sh makeInstall.sh	
+	sh makeInstall.sh	
 
 ## Documentation
 
