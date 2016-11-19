@@ -1,0 +1,18 @@
+Package: MriCloudR
+Type: Package
+Title: R wrapper for MriCloud API
+Version: 0.9.1
+Date: 2016-07-11
+Author: Marc Vaillant
+Maintainer: Marc Vaillant <kb1ooo@kb1ooo.com>
+Description: Provides an R interface to the MriCloud API
+License: MIT
+Depends:
+    methods,
+    httr,
+    objectProperties
+RoxygenNote: 5.0.1
+Collate: 
+		DtiSegData.r
+		T1SegData.r
+		MriCloudR.r
